@@ -1,2 +1,3 @@
 # TypeScript-basis
-Created with CodeSandbox
+
+## TypeScriptの型指定や基本的な部分
