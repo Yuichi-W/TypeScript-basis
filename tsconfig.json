@@ -1,0 +1,15 @@
+{
+    "include": [
+        "./src/**/*"
+    ],
+    "compilerOptions": {
+        "strict": true, //ある程度厳しいルールありにしている→js空tsに移行時とかは一旦外したりする
+        "noImplicitAny": false, //暗黙anyルールをOFFにできる
+        "esModuleInterop": true,
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "jsx": "react-jsx"
+    }
+}
